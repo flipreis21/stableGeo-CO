@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "ddd": null,
+        "name": "Aguachica",
+        "abbrev": null,
+        "osm_id": 1423511,
+        "name_en": null,
+        "isolevel": "3",
+        "lexlabel": "aguachica",
+        "parent_id": 1317223,
+        "admin_level": 6,
+        "wikidata_id": 2309010,
+        "isolabel_ext": "CO-CES-Aguachica",
+        "jurisd_base_id": 170,
+        "jurisd_local_id": 20011
+      }
+    }
+  ]
+}

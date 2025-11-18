@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "ddd": null,
+        "name": "Villagómez",
+        "abbrev": null,
+        "osm_id": 13436740,
+        "name_en": null,
+        "isolevel": "3",
+        "lexlabel": "villagomez",
+        "parent_id": 1305533,
+        "admin_level": 6,
+        "wikidata_id": 1655514,
+        "isolabel_ext": "CO-CUN-Villagomez",
+        "jurisd_base_id": 170,
+        "jurisd_local_id": 25871
+      }
+    }
+  ]
+}

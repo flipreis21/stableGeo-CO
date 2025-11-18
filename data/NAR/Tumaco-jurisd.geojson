@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "ddd": null,
+        "name": "Tumaco",
+        "abbrev": null,
+        "osm_id": 1311750,
+        "name_en": null,
+        "isolevel": "3",
+        "lexlabel": "tumaco",
+        "parent_id": 1380130,
+        "admin_level": 6,
+        "wikidata_id": 1005555,
+        "isolabel_ext": "CO-NAR-Tumaco",
+        "jurisd_base_id": 170,
+        "jurisd_local_id": 52835
+      }
+    }
+  ]
+}

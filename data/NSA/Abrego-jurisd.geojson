@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "ddd": null,
+        "name": "Abrego",
+        "abbrev": null,
+        "osm_id": 1423499,
+        "name_en": null,
+        "isolevel": "3",
+        "lexlabel": "abrego",
+        "parent_id": 1324192,
+        "admin_level": 6,
+        "wikidata_id": 2429591,
+        "isolabel_ext": "CO-NSA-Abrego",
+        "jurisd_base_id": 170,
+        "jurisd_local_id": 54003
+      }
+    }
+  ]
+}

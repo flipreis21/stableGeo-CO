@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "ddd": null,
+        "name": "Ospina",
+        "abbrev": null,
+        "osm_id": 11329267,
+        "name_en": null,
+        "isolevel": "3",
+        "lexlabel": "ospina",
+        "parent_id": 1380130,
+        "admin_level": 6,
+        "wikidata_id": 1578953,
+        "isolabel_ext": "CO-NAR-Ospina",
+        "jurisd_base_id": 170,
+        "jurisd_local_id": 52506
+      }
+    }
+  ]
+}
